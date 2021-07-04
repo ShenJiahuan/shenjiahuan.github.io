@@ -53,5 +53,8 @@ Awards and Scholarships
     <li>
     Merit student of SJTU <span class="align-right">2019</span>
     </li>
+    <li>
+    Excellent Graduates in Shanghai <span class="align-right">2021</span>
+    </li>
   </ul>
 </div>
