@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth year undergraduate at [Institute of Parallel And Distributed Systems (IPADS)](https://ipads.se.sjtu.edu.cn), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn), advised by [Zhaoguo Wang](https://ipads.se.sjtu.edu.cn/pub/members/zhaoguo_wang).
+I am currently a first year PhD student at [Institute of Parallel And Distributed Systems (IPADS)](https://ipads.se.sjtu.edu.cn), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn), advised by [Zhaoguo Wang](https://ipads.se.sjtu.edu.cn/pub/members/zhaoguo_wang).
 <br />
 My research interest lies in Computer Systems.
 
