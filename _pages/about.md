@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second year PhD student at [Institute of Parallel And Distributed Systems (IPADS)](https://ipads.se.sjtu.edu.cn), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn), advised by [Zhaoguo Wang](https://ipads.se.sjtu.edu.cn/pub/members/zhaoguo_wang).
+I am currently a third year PhD student at [Institute of Parallel And Distributed Systems (IPADS)](https://ipads.se.sjtu.edu.cn), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn), advised by [Zhaoguo Wang](https://ipads.se.sjtu.edu.cn/pub/members/zhaoguo_wang).
 <br />
 My research interest lies in Computer Systems.
 
@@ -29,7 +29,13 @@ Education
 
 Publications
 ======
-Not yet :(
+<div markdown="0">
+  <ul>
+    <li>
+    WeBridge: Synthesizing Stored Procedures for Large-Scale Real-World Web Applications. Gansen Hu, Zhaoguo Wang, Chuzhe Tang, <b>Jiahuan Shen</b>, Zhiyuan Dong, Sheng Yao, Haibo Chen. Proceedings of the 2024 ACM SIGMOD International Conference on Management of Data, Santiago, Chile, June 9-15, 2024 (<a href="https://dl.acm.org/doi/abs/10.1145/3639319">Paper</a>)
+    </li>
+  </ul>
+</div>
 
 Awards and Scholarships
 ======
